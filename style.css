@@ -64,6 +64,13 @@ section {
     color: var(--White);
     font-weight: 500;
     margin-bottom: 8px;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.link:hover {
+    background-color: var(--Green);
+    color: var(--Grey-900);
 }
 
 .link:last-child {
