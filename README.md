@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repo](https://github.com/icabduqaadir12/blog-preview-card)
-- Live Site URL: [Live Preview](https://icabduqaadir12.github.io/blog-preview-card)
+- Solution URL: [GitHub Repo](https://github.com/icabduqaadir12/social-links-profile)
+- Live Site URL: [Live Preview](https://icabduqaadir12.github.io/social-links-profile)
 
 ## My Process
 
